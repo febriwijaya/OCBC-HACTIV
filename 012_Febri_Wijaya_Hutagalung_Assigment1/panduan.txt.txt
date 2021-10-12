@@ -1,0 +1,15 @@
+Cara menjalankan program : 
+1. Buka visual studio code
+2. Run Program dengan mono
+3. Kemudian Akan Tampil beberapa menu
+4. Ketikkan 1 untuk
+5. Ketikkan 2 untuk 
+6. Ketikkan 3 untuk 
+7. Ketikkan 4 untuk 
+8. Ketikkan 5 untuk 
+9. Ketikkan 6 untuk Palindrom
+10. Ketikkan 7 untuk Biodata Saya
+
+- Setelah user memilih pilihan masing masing kemudian akan diberikan pertanyaan : Apakah user ingin kembali ke menu awal atau tidak ?.
+
+Seperti itulah cara pakai program sederhana ini.
