@@ -1,0 +1,16 @@
+D:\full stack ocbc\sesi5\pro2\obj\Debug\net5.0\pro2.csproj.AssemblyReference.cache
+D:\full stack ocbc\sesi5\pro2\obj\Debug\net5.0\pro2.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack ocbc\sesi5\pro2\obj\Debug\net5.0\pro2.AssemblyInfoInputs.cache
+D:\full stack ocbc\sesi5\pro2\obj\Debug\net5.0\pro2.AssemblyInfo.cs
+D:\full stack ocbc\sesi5\pro2\obj\Debug\net5.0\pro2.csproj.CoreCompileInputs.cache
+D:\full stack ocbc\sesi5\pro2\bin\Debug\net5.0\pro2.exe
+D:\full stack ocbc\sesi5\pro2\bin\Debug\net5.0\pro2.deps.json
+D:\full stack ocbc\sesi5\pro2\bin\Debug\net5.0\pro2.runtimeconfig.json
+D:\full stack ocbc\sesi5\pro2\bin\Debug\net5.0\pro2.runtimeconfig.dev.json
+D:\full stack ocbc\sesi5\pro2\bin\Debug\net5.0\pro2.dll
+D:\full stack ocbc\sesi5\pro2\bin\Debug\net5.0\ref\pro2.dll
+D:\full stack ocbc\sesi5\pro2\bin\Debug\net5.0\pro2.pdb
+D:\full stack ocbc\sesi5\pro2\obj\Debug\net5.0\pro2.dll
+D:\full stack ocbc\sesi5\pro2\obj\Debug\net5.0\ref\pro2.dll
+D:\full stack ocbc\sesi5\pro2\obj\Debug\net5.0\pro2.pdb
+D:\full stack ocbc\sesi5\pro2\obj\Debug\net5.0\pro2.genruntimeconfig.cache

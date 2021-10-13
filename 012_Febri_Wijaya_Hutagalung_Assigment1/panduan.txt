@@ -1,3 +1,5 @@
+Link github : https://github.com/febriwijaya/OCBC-HACTIV/tree/main/012_Febri_Wijaya_Hutagalung_Assigment1
+
 Cara menjalankan program : 
 1. Buka visual studio code
 2. Run Program dengan mono
