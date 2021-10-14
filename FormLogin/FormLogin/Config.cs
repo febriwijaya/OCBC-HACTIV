@@ -33,12 +33,16 @@ namespace FormLogin
         {
             try
             {
-                ConnectionString = "SERVER=" + server + ";" + "DATABASE=" + database_name + ";" + "UID=" + user + ";" + "PASSWORD=" + password + ";";
+                ConnectionString = "SERVER=" + server + ";" +
+                    "DATABASE=" + database_name + ";" +
+                    "UID=" + user + ";" +
+                    "PASSWORD=" + password + ";";
+
                 connection = new MySqlConnection(ConnectionString);
             }
-            catch (Exception e)
+            catch (Exception E)
             {
-                MessageBox.Show(e.Message);
+                MessageBox.Show(E.Message);
             }
         }
 
