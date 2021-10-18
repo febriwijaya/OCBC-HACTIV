@@ -45,6 +45,12 @@
     <img src="images/jwtBearer.jpg" alt="" class="img-fluid">
     <li>Tampilan Menguji Data Api Menggunakan Swagger</li>
     <img src="images/Sweager.jpg" alt="" class="img-fluid">
+     <li>Tampilan Menguji Register AUTH  Data Api Menggunakan Swagger</li>
+    <img src="images/11_get.jpg" alt="" class="img-fluid">
+    <li>Tampilan Menguji Login AUTH  Data Api Menggunakan Swagger</li>
+    <img src="images/11_login.jpg" alt="" class="img-fluid">
+    <li>Tampilan Menguji Refresh token  Data Api Menggunakan Swagger</li>
+    <img src="images/refreshtokena.jpg" alt="" class="img-fluid">
   </ol>
 </body>
 
