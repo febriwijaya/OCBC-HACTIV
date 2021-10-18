@@ -41,3 +41,6 @@ E:\visual studio c# ocbc\Asignment3\Asignment3\bin\Debug\net5.0\Swashbuckle.AspN
 E:\visual studio c# ocbc\Asignment3\Asignment3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\visual studio c# ocbc\Asignment3\Asignment3\obj\Debug\net5.0\Asignment3.MvcApplicationPartsAssemblyInfo.cs
 E:\visual studio c# ocbc\Asignment3\Asignment3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\visual studio c# ocbc\Asignment3\Asignment3\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\visual studio c# ocbc\Asignment3\Asignment3\bin\Debug\net5.0\System.Web.Http.dll
+E:\visual studio c# ocbc\Asignment3\Asignment3\bin\Debug\net5.0\Swashbuckle.Core.dll
