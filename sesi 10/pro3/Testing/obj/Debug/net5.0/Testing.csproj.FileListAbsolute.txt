@@ -1,0 +1,7 @@
+D:\full stack ocbc\sesi 10\pro3\Testing\obj\Debug\net5.0\Testing.csproj.AssemblyReference.cache
+D:\full stack ocbc\sesi 10\pro3\Testing\obj\Debug\net5.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack ocbc\sesi 10\pro3\Testing\obj\Debug\net5.0\Testing.AssemblyInfoInputs.cache
+D:\full stack ocbc\sesi 10\pro3\Testing\obj\Debug\net5.0\Testing.AssemblyInfo.cs
+D:\full stack ocbc\sesi 10\pro3\Testing\obj\Debug\net5.0\Testing.csproj.CoreCompileInputs.cache
+D:\full stack ocbc\sesi 10\pro3\Testing\obj\Debug\net5.0\Testing.MvcApplicationPartsAssemblyInfo.cs
+D:\full stack ocbc\sesi 10\pro3\Testing\obj\Debug\net5.0\Testing.MvcApplicationPartsAssemblyInfo.cache
