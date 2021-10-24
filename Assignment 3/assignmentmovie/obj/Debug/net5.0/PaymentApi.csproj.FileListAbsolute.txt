@@ -1,0 +1,561 @@
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\appsettings.json
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.StaticWebAssets.xml
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.exe
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.deps.json
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.runtimeconfig.json
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.runtimeconfig.dev.json
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\ref\PaymentApi.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.pdb
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\EntityFramework.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Humanizer.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Build.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySql.Data.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\ZstdNet.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySql.Data.EntityFramework.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySqlConnector.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Commands.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Common.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Configuration.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Credentials.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.LibraryModel.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Packaging.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.ProjectModel.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Protocol.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Versioning.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.CodeDom.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.csproj.AssemblyReference.cache
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.AssemblyInfoInputs.cache
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.AssemblyInfo.cs
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.csproj.CoreCompileInputs.cache
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\staticwebassets\PaymentApi.StaticWebAssets.Manifest.cache
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\staticwebassets\PaymentApi.StaticWebAssets.xml
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\scopedcss\bundle\PaymentApi.styles.css
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.RazorTargetAssemblyInfo.cache
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\ref\PaymentApi.dll
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.pdb
+E:\Intern OCBC\Sesi\Sesi 14\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.genruntimeconfig.cache
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\appsettings.Development.json
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\appsettings.json
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.StaticWebAssets.xml
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.exe
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.deps.json
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.runtimeconfig.json
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.runtimeconfig.dev.json
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\ref\PaymentApi.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.pdb
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\EntityFramework.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Google.Protobuf.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Humanizer.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Build.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySql.Data.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\ZstdNet.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySql.Data.EntityFramework.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySqlConnector.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Commands.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Common.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Configuration.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Credentials.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.LibraryModel.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Packaging.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.ProjectModel.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Protocol.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Versioning.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.CodeDom.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.csproj.AssemblyReference.cache
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.AssemblyInfoInputs.cache
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.AssemblyInfo.cs
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.csproj.CoreCompileInputs.cache
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\staticwebassets\PaymentApi.StaticWebAssets.Manifest.cache
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\staticwebassets\PaymentApi.StaticWebAssets.xml
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\scopedcss\bundle\PaymentApi.styles.css
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.RazorTargetAssemblyInfo.cache
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\ref\PaymentApi.dll
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.pdb
+D:\ff\ocbc-h8\ffproject\ProjectFile\Project MySQL Local\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.genruntimeconfig.cache
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\appsettings.Development.json
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.StaticWebAssets.xml
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\appsettings.json
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.exe
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.deps.json
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.runtimeconfig.json
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.runtimeconfig.dev.json
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\ref\PaymentApi.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\PaymentApi.pdb
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\EntityFramework.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Google.Protobuf.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Humanizer.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Build.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySql.Data.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\ZstdNet.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySql.Data.EntityFramework.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\MySqlConnector.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Commands.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Common.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Configuration.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Credentials.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.LibraryModel.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Packaging.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.ProjectModel.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Protocol.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\NuGet.Versioning.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.CodeDom.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.csproj.AssemblyReference.cache
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.AssemblyInfoInputs.cache
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.AssemblyInfo.cs
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.csproj.CoreCompileInputs.cache
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\staticwebassets\PaymentApi.StaticWebAssets.Manifest.cache
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\staticwebassets\PaymentApi.StaticWebAssets.xml
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\scopedcss\bundle\PaymentApi.styles.css
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.RazorTargetAssemblyInfo.cache
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\ref\PaymentApi.dll
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.pdb
+D:\final projects febri\Final Project (C#)\PaymentApi\obj\Debug\net5.0\PaymentApi.genruntimeconfig.cache
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\appsettings.Development.json
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\appsettings.json
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\PaymentApi.StaticWebAssets.xml
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\PaymentApi.exe
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\PaymentApi.deps.json
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\PaymentApi.runtimeconfig.json
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\PaymentApi.runtimeconfig.dev.json
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\PaymentApi.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\ref\PaymentApi.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\PaymentApi.pdb
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\EntityFramework.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Google.Protobuf.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Humanizer.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.Build.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\MySql.Data.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\ZstdNet.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\MySql.Data.EntityFramework.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\MySqlConnector.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.Commands.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.Common.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.Configuration.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.Credentials.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.LibraryModel.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.Packaging.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.ProjectModel.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.Protocol.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\NuGet.Versioning.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\System.CodeDom.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\final projects febri\Final Project\PaymentApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.csproj.AssemblyReference.cache
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.AssemblyInfoInputs.cache
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.AssemblyInfo.cs
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.csproj.CoreCompileInputs.cache
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\staticwebassets\PaymentApi.StaticWebAssets.Manifest.cache
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\staticwebassets\PaymentApi.StaticWebAssets.xml
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\scopedcss\bundle\PaymentApi.styles.css
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.RazorTargetAssemblyInfo.cache
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.dll
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\ref\PaymentApi.dll
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.pdb
+D:\final projects febri\Final Project\PaymentApi\obj\Debug\net5.0\PaymentApi.genruntimeconfig.cache
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.csproj.AssemblyReference.cache
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.AssemblyInfoInputs.cache
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.AssemblyInfo.cs
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.csproj.CoreCompileInputs.cache
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.dll
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\ref\PaymentApi.dll
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.pdb
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\appsettings.Development.json
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\PaymentApi.StaticWebAssets.xml
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\appsettings.json
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\PaymentApi.exe
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\PaymentApi.deps.json
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\PaymentApi.runtimeconfig.json
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\PaymentApi.runtimeconfig.dev.json
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\PaymentApi.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\ref\PaymentApi.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\PaymentApi.pdb
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\EntityFramework.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Google.Protobuf.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Humanizer.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.Build.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\MySql.Data.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\ZstdNet.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\MySql.Data.EntityFramework.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\MySqlConnector.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.Commands.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.Common.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.Configuration.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.Credentials.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.LibraryModel.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.Packaging.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.ProjectModel.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.Protocol.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\NuGet.Versioning.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\System.CodeDom.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\staticwebassets\PaymentApi.StaticWebAssets.Manifest.cache
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\staticwebassets\PaymentApi.StaticWebAssets.xml
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\scopedcss\bundle\PaymentApi.styles.css
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.RazorTargetAssemblyInfo.cache
+D:\full stack ocbc\assignmentmovie\obj\Debug\net5.0\PaymentApi.genruntimeconfig.cache
+D:\full stack ocbc\assignmentmovie\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
